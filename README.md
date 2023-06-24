@@ -1,1 +1,2 @@
-# Frontend Deployed URL: https://stirring-minds-assignment.netlify.app/
+- Frontend Deployed URL: https://stirring-minds-assignment.netlify.app/
+- Backend Deployed URL: https://stirring-minds-assignment-backend.onrender.com/
